@@ -25,6 +25,14 @@
 * Run the following command for insert initial user `php artisan db:seed`
 * Finally run the backend server `php artisan serve`
 
+## Credentials
+
+```bash
+# initial user credentials in database table seeder
+email: admin@example.com
+password: 123456
+```
+
 ## URL list
 ```bash
 # login (method=POST)
@@ -51,4 +59,4 @@ api/v1/product/{productID}
 
 ## Support
 
-If you have any questions or confusion please email me at **kawsar.diu888@gmail.com** or open an issue in the repository.
+If you have any questions or confusion please email me at **mkawsarahmed@outlook.com** or open an issue in the repository.
